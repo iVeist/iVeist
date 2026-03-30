@@ -2,7 +2,7 @@
 
 ##  Desenvolvedor em formação | Técnico em Desenvolvimento de Sistemas – SENAI CIMATEC
 
-Sou de Salvador, BA, atualmente no segundo semestre do curso técnico e apaixonado por programação. Já desenvolvo sistemas simples em **C++**, uso **structs**, **funções modulares**, **manipulação de vetores**, **organização de código** e estou evoluindo rápido.
+Sou de Salvador, BA, atualmente no segundo semestre do curso técnico e estagiando. apaixonado por programação. Já desenvolvo sistemas simples em **C++**, uso **structs**, **funções modulares**, **manipulação de vetores**, **organização de código** e estou evoluindo rápido.
 
 Meu foco é:
 
@@ -15,6 +15,7 @@ Meu foco é:
 
 ##  Tecnologias que já uso
 
+* **Dart/Flutter**(Criação de aplicações Mobile)
 * **SQL** (Criar, Ler, atualizar e deletar bancos de dados)
 * **Java** (Programação orientada a objetos, programação de aplicativos)
 * **C++** (estruturas, modularização, vetores, lógica de programação)
@@ -24,27 +25,11 @@ Meu foco é:
 
 ---
 
-##  Projetos em desenvolvimento
-
-### Repositórios sugeridos (caso ainda não existam):
-
-* `sistema-banco-simples` – Sistema em C++ usando structs
-* `sistema-estoque` – CRUD simples em C++
-* `calculadora-modular-cpp` – Calculadora usando funções modulares
-* `vetores-e-funcoes` – Exercícios organizados  
----
-
 ##  Como falar comigo
 
 * **WhatsApp:** (71) 99179-6187
 * **Local:** Salvador, Bahia – Brasil
 * **GitHub:** [https://github.com/iVeist](https://github.com/iVeist)
-
----
-
-##  Objetivo Profissional
-
-Conseguir meu primeiro estágio em TI ou Desenvolvimento, aplicando minha lógica, disciplina e vontade de aprender.
 
 ---
 
