@@ -1,6 +1,6 @@
-# 👋 Olá! Eu sou Vinicius de Andrade (iVeist)
+#  Olá! Eu sou Vinicius de Andrade (iVeist)
 
-## 🚀 Desenvolvedor em formação | Técnico em Desenvolvimento de Sistemas – SENAI CIMATEC
+##  Desenvolvedor em formação | Técnico em Desenvolvimento de Sistemas – SENAI CIMATEC
 
 Sou de Salvador, BA, atualmente no segundo semestre do curso técnico e apaixonado por programação. Já desenvolvo sistemas simples em **C++**, uso **structs**, **funções modulares**, **manipulação de vetores**, **organização de código** e estou evoluindo rápido.
 
@@ -13,7 +13,7 @@ Meu foco é:
 
 ---
 
-## 🧠 Tecnologias que já uso
+##  Tecnologias que já uso
 
 * **SQL** (Criar, Ler, atualizar e deletar bancos de dados)
 * **Java** (Programação orientada a objetos, programação de aplicativos)
@@ -24,7 +24,7 @@ Meu foco é:
 
 ---
 
-## 📌 Projetos em desenvolvimento
+##  Projetos em desenvolvimento
 
 ### Repositórios sugeridos (caso ainda não existam):
 
@@ -34,7 +34,7 @@ Meu foco é:
 * `vetores-e-funcoes` – Exercícios organizados  
 ---
 
-## 📫 Como falar comigo
+##  Como falar comigo
 
 * **WhatsApp:** (71) 99179-6187
 * **Local:** Salvador, Bahia – Brasil
@@ -42,13 +42,13 @@ Meu foco é:
 
 ---
 
-## 🎯 Objetivo Profissional
+##  Objetivo Profissional
 
 Conseguir meu primeiro estágio em TI ou Desenvolvimento, aplicando minha lógica, disciplina e vontade de aprender.
 
 ---
 
-## 🏆 Destaques Pessoais
+##  Destaques Pessoais
 
 * Muita facilidade com lógica
 * Constante evolução em programação
